@@ -1,2 +1,2 @@
 # Find-US-cities
-Javascript project with API and REGEX
+Javascript project with nice usage of API and REGEX
